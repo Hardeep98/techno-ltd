@@ -1,0 +1,40 @@
+header {
+    background: rgb(123, 37, 235);
+}
+
+.logo {
+    font-weight: bold;
+}
+
+nav {
+    justify-self: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-top: 4%;
+    float: left;
+}
+
+a {
+    padding: 1.5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+a:hover {
+    background: #8E2BFF;
+}
+
+img {
+    float: left;
+    width: 6%;
+    margin-left: 1%;
+}
